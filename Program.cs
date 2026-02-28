@@ -1,4 +1,4 @@
-const int CANTIDAD_ELEMENTOS = 1;
+const int CANTIDAD_ELEMENTOS = 10000;
 Algoritmo ordenador = new Algoritmo();
 
 // 1. Generar datos (Semilla 42 para que todos tengan el mismo desorden)
