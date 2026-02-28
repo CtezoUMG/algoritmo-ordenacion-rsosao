@@ -1,5 +1,3 @@
-using System;
-
 const int CANTIDAD_ELEMENTOS = 1;
 Algoritmo ordenador = new Algoritmo();
 
